@@ -1,0 +1,100 @@
+/*
+
+  DarkMonoAlt - Maintained by beats for Redacted
+
+  ----------------------------------------------
+
+
+
+  Original DarkMono v2 by htrd (a.hatred@gmail.com)
+
+  Original terms of use / license information:
+
+
+
+  Everything is copyright 2012 htrd.
+
+  Distributed under the Creative Commons BY-NC-ND 3.0 License:
+
+    * You may copy, distribute and transmit this stylesheet and it's associated elements, unaltered and in their entirety, so long as you
+
+      give proper credit for the creation and design of these elements to htrd and include this written notice of such credit.
+
+    * You may not use any aspect of this stylesheet or it's design elements for any commercial or public purposes.
+
+    * You may not alter, transform, or build upon this stylesheet for public use.
+
+    * By using this stylesheet and it's associated elements, you agree to these Terms of Use and also that these Terms of Use may change at any time, with or without notice.
+
+  Made exclusively for use on What.CD in 2012.
+
+*/
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
+
+* {
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+
+
+body {
+
+  margin: 0;
+
+  padding: 0;
+
+  background: #222;
+
+  color: #9A9A9A;
+
+  text-shadow: 0.1em 0.1em rgba(0, 0, 0, 0.3);
+
+  font: 13px 'Roboto', 'Trebuchet MS', "Arial", sans-serif;
+
+}
+
+
+
+p, #userinfo_stats li:last-child {
+
+  margin: 0;
+
+}
+
+
+
+p.min_padding, .friends_table td.left input[type="submit"]:first-child {
+
+  margin-top: 3px;
+
+}
+
+
+
+table {
+
+  border-spacing: 0;
+
+  border-collapse: collapse;
+
+  width: 100%;
+
+}
+
+
+
+ol, ul {
+
+  list-style-position: inside;
+
+}
+
+
+
+li {
+
